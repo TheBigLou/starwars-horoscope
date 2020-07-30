@@ -6,7 +6,7 @@ const Card = ({name, type}) => {
 	return (
 		<div className="signs tc fl w-100 w-third-ns pa2 pv5 ba bw2 b--gold pa2">
 			<h3 className="yellow f4">{type} Sign</h3>
-			<h2><a class="link b dim light-yellow hover-mid-gray" href={url}>{name}</a></h2>
+			<h2><a class="link b dim light-yellow hover-mid-gray" href={url} target="_blank">{name}</a></h2>
 		</div>
 		);
 }
