@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d82e5b58da2e596a9a7848dff1367314",
+    "revision": "cf254e65dbf89d8dffdc876f31541fbc",
     "url": "/starwars-horoscope/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-horoscope/static/css/2.5f0f5072.chunk.css"
   },
   {
-    "revision": "9aafd61678b769d3ee4c",
+    "revision": "b2cd812b3f888bd826a8",
     "url": "/starwars-horoscope/static/css/main.4bd99868.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/starwars-horoscope/static/js/2.94229a49.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "9aafd61678b769d3ee4c",
-    "url": "/starwars-horoscope/static/js/main.0fa0b5fa.chunk.js"
+    "revision": "b2cd812b3f888bd826a8",
+    "url": "/starwars-horoscope/static/js/main.8d2e69d7.chunk.js"
   },
   {
     "revision": "f70efa50dab8e1679c92",
