@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/starwars-horoscope/static/css/main.4bd99868.chunk.css",
-    "main.js": "/starwars-horoscope/static/js/main.2df30a58.chunk.js",
-    "main.js.map": "/starwars-horoscope/static/js/main.2df30a58.chunk.js.map",
+    "main.css": "/starwars-horoscope/static/css/main.dcae7b24.chunk.css",
+    "main.js": "/starwars-horoscope/static/js/main.8806be19.chunk.js",
+    "main.js.map": "/starwars-horoscope/static/js/main.8806be19.chunk.js.map",
     "runtime-main.js": "/starwars-horoscope/static/js/runtime-main.8d99a908.js",
     "runtime-main.js.map": "/starwars-horoscope/static/js/runtime-main.8d99a908.js.map",
     "static/css/2.5f0f5072.chunk.css": "/starwars-horoscope/static/css/2.5f0f5072.chunk.css",
     "static/js/2.94229a49.chunk.js": "/starwars-horoscope/static/js/2.94229a49.chunk.js",
     "static/js/2.94229a49.chunk.js.map": "/starwars-horoscope/static/js/2.94229a49.chunk.js.map",
     "index.html": "/starwars-horoscope/index.html",
-    "precache-manifest.dc06f4474656ecaeb7a0401f76f8ed4b.js": "/starwars-horoscope/precache-manifest.dc06f4474656ecaeb7a0401f76f8ed4b.js",
+    "precache-manifest.a047ea39bcb366721a280b8efcd2ff62.js": "/starwars-horoscope/precache-manifest.a047ea39bcb366721a280b8efcd2ff62.js",
     "service-worker.js": "/starwars-horoscope/service-worker.js",
     "static/css/2.5f0f5072.chunk.css.map": "/starwars-horoscope/static/css/2.5f0f5072.chunk.css.map",
-    "static/css/main.4bd99868.chunk.css.map": "/starwars-horoscope/static/css/main.4bd99868.chunk.css.map",
+    "static/css/main.dcae7b24.chunk.css.map": "/starwars-horoscope/static/css/main.dcae7b24.chunk.css.map",
     "static/js/2.94229a49.chunk.js.LICENSE.txt": "/starwars-horoscope/static/js/2.94229a49.chunk.js.LICENSE.txt",
     "static/media/App.css": "/starwars-horoscope/static/media/STARWARS.35f31c7a.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.8d99a908.js",
     "static/css/2.5f0f5072.chunk.css",
     "static/js/2.94229a49.chunk.js",
-    "static/css/main.4bd99868.chunk.css",
-    "static/js/main.2df30a58.chunk.js"
+    "static/css/main.dcae7b24.chunk.css",
+    "static/js/main.8806be19.chunk.js"
   ]
 }
