@@ -75,6 +75,10 @@ class App extends Component {
         <DatePicker
         selected={this.state.birthDate}
         onChange={this.handleChange}
+        peekNextMonth
+        showMonthDropdown
+        showYearDropdown
+        dropdownMode="select"
         />
         <br />
         <br />
