@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/starwars-horoscope/precache-manifest.fb433e8fc2e33524eff11c8378e36371.js"
+  "/starwars-horoscope/precache-manifest.dc06f4474656ecaeb7a0401f76f8ed4b.js"
 );
 
 self.addEventListener('message', (event) => {
